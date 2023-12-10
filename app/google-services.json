@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "918997840276",
+    "firebase_url": "https://bv-seminar-default-rtdb.firebaseio.com",
+    "project_id": "bv-seminar",
+    "storage_bucket": "bv-seminar.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:918997840276:android:58520d9a4687d5993e1f81",
+        "android_client_info": {
+          "package_name": "com.nevexo.proiectseminar"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfBmeamQfvq4jchd3SJL9x41YW5svGv5c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

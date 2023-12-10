@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">SemDAM_1085</string>
+    <string name="data">Data:</string>
+    <string name="eur">EUR:</string>
+    <string name="usd">USD:</string>
+    <string name="gbp">GBP:</string>
+    <string name="xau">XAU:</string>
+    <string name="afisare_curs_valutar">Afisare curs valutar</string>
+    <string name="introduceti_marca">Introduceti marca</string>
+    <string name="introduceti_data">Introduceti data</string>
+    <string name="introduceti_pretul">Introduceti pretul</string>
+    <string name="gasoline">Gasoline</string>
+    <string name="electric">Electric</string>
+    <string name="adauga_masini">Adauga masini</string>
+    <string name="hibrid">Hibrid</string>
+    <string name="activitate_bnr">Activitate BNR</string>
+    <string name="bnr_activity">BNR Activity</string>
+    <string name="extract_data_fron_xml">extract_data_fron_xml</string>
+    <string name="extract_data_fron_json">extract_data_fron_json</string>
+    <string name="view_data_base">view_data_base</string>
+    <string name="exit">exit</string>
+    <string name="extract">Extract</string>
+    <string name="view_firebase">view_firebase</string>
+    <string-array name="culori">
+        <item>Alb</item>
+        <item>Negru</item>
+        <item>Rosu</item>
+        <item>Albastru</item>
+    </string-array>
+</resources>
